@@ -1,0 +1,12 @@
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\VirtualEntity.dll
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\VirtualEntity.pdb
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Microsoft.Xrm.Sdk.dll
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Newtonsoft.Json.dll
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Microsoft.Xrm.Sdk.xml
+A:\GitHub\VirtualEntity\VirtualEntity\bin\Debug\Newtonsoft.Json.xml
+A:\GitHub\VirtualEntity\VirtualEntity\obj\Debug\VirtualEntity.csprojAssemblyReference.cache
+A:\GitHub\VirtualEntity\VirtualEntity\obj\Debug\VirtualEntity.csproj.CopyComplete
+A:\GitHub\VirtualEntity\VirtualEntity\obj\Debug\VirtualEntity.dll
+A:\GitHub\VirtualEntity\VirtualEntity\obj\Debug\VirtualEntity.pdb
